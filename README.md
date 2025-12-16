@@ -11,11 +11,11 @@
 	
 ***Server Monitoring***
 
-![Server Monitoring Dashboard Mockup](artifacts/server_monitoring_dashboard_mockup.png)
+<img src="artifacts/server_monitoring_dashboard_mockup.png/" width="900">
 
 ***Reading habits***
 
-![Reading Habits Dashboard Mockup](artifacts/reading_habits_dashboard_mockup.png)
+<img src="artifacts/reading_habits_dashboard_mockup.png/" width="900">
 
 ### Stack
 
